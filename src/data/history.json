@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Tester",
+    "organisation": "Schinkels Technik",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": ["Sole QA Tester", "Enhanced User Experience","API & Data Testing","UAT & Client Training"
+  ,"Comprehensive Documentation","Bug Identification & Resolution"],
+    "imageSrc": "history/orange sch.png"
+  },
+  {
+    "role": "UI/UX Designer",
+    "organisation": "Up Tech Solutions",
+    "startDate": "Aug, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Designed Prototypes", "Diverse Projects"
+    ,"Cross-Team Collaboration","Built Landing Pages"],
+    "imageSrc": "history/uptech.png"
+  }
+]

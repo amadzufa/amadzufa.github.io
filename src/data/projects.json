@@ -1,0 +1,11 @@
+[
+  {
+    "title": "To-Do List App ",
+    "imageSrc": "projects/todo.png",
+    "description": "This is my first fullstack project. It uses React JS front end and ASP.Net Web API. It can do CRUD functions.",
+    "skills": ["React", "Javascript", ".Net"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/amadzufa/Task.API.git"
+  }
+  
+]
